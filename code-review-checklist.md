@@ -51,22 +51,7 @@ getName, sendEmail, printMessage, saveUsers
 
 - [ ] Have you chosen verbs and nouns that you prefer to use on the project? Stick to them. Examples:
 ```
-add/remove
-increment/decrement 
-open/close 
-begin/end 
-insert/delete
-show/hide
-create/destroy
-lock/unlock
-source/target
-first/last
-min/max 
-start/stop 
-get/put
-next/previous
-up/down
-get/set
+add/remove, increment/decrement, open/close, begin/end, insert/delete, show/hide, create/destroy
 ```
 
 - [ ] Is it clear from method name what type of data it returns? For example,
