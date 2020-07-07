@@ -1,9 +1,9 @@
-### Code Review Checklist
+# Code Review Checklist
 
 During code review, you should pay attention to all these aspects.   
 
 - [Architecture and design](#architecture-and-design)  
-- [Readability](#readability)  
+- [Code Readability](#code-readability)  
 - [Security](#security)
 - [Error handling](#error-handling)
 - [Logging](#logging)
@@ -235,7 +235,7 @@ logWarning(data, errorType) - WRONG, inconsistent order
 
 - [ ] How will the program behave if there is unexpectedly lot of requests arrive?
 
-### Race conditions
+**Race conditions**
 
 - [ ] Can race conditions arise?
 
@@ -250,7 +250,7 @@ logWarning(data, errorType) - WRONG, inconsistent order
 
 - [ ] Haven’t you done your own assumptions instead of asking the customer or PM?
 
-## Backward compatibility
+## Back compatibility
 
 - [ ] Do the changes break back-compatibility?
 
