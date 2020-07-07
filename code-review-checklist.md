@@ -1,20 +1,22 @@
 # Code Review Checklist
 
+This is a checklist I created for Waverley Software and we published it [on our website](https://waverleysoftware.com/blog/code-review-best-practices/)
+
 During code review, you should pay attention to all these aspects.   
 
-- [Architecture and design](#architecture-and-design)  
-- [Code Readability](#code-readability)  
-- [Security](#security)
-- [Error handling](#error-handling)
-- [Logging](#logging)
-- [Input validation](#input-validation)
-- [Transactions](#transactions)
-- [Performance under load](#performance-under-load)
-- [Compliance with the requirements](#compliance-with-the-requirements)
-- [Back-Compatibility](#back-compatibility)
-- [Third-party libraries](#third-party-libraries)
-- [Documentation](#documentation)
-- [Automated tests](#automated-tests)
+- [ ] [Architecture and design](#architecture-and-design)  
+- [ ] [Code Readability](#code-readability)  
+- [ ] [Security](#security)
+- [ ] [Error handling](#error-handling)
+- [ ] [Logging](#logging)
+- [ ] [Input validation](#input-validation)
+- [ ] [Transactions](#transactions)
+- [ ] [Performance under load](#performance-under-load)
+- [ ] [Compliance with the requirements](#compliance-with-the-requirements)
+- [ ] [Back-Compatibility](#back-compatibility)
+- [ ] [Third-party libraries](#third-party-libraries)
+- [ ] [Documentation](#documentation)
+- [ ] [Automated tests](#automated-tests)
 
 Note: all these aspects are equally important, order in this list does not matter.
 See also [Useful Resources](#useful-resources) at the bottom of this page. 
