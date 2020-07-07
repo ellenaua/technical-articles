@@ -10,7 +10,7 @@ During code review, you should pay attention to all these aspects.
 - [Input validation](#input-validation)
 - [Transactions](#transactions)
 - [Performance under load](#performance-under-load)
-- [Requirements compliance](#requirements-compliance)
+- [Compliance with the requirements](#compliance-with-the-requirements)
 - [Back-Compatibility](#back-compatibility)
 - [Third-party libraries](#third-party-libraries)
 - [Documentation](#documentation)
@@ -20,7 +20,7 @@ Note: all these aspects are equally important, order in this list does not matte
 See also [Useful Resources](#useful-resources) at the bottom of this page. 
 
 
-## Architecture & Design
+## Architecture and Design
 
 - [ ] **Single Responsibility Principle**:  A class or method should have one-and-only-one responsibility. If we have to use “and” to finish describing what a method is capable of doing, it might be at the wrong level of abstraction.
 
