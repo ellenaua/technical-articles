@@ -1,8 +1,10 @@
 # Code Review Checklist
 
+**Pull requests are welcome!**
+
 This is a checklist I created for Waverley Software and we published it [on our website](https://waverleysoftware.com/blog/code-review-best-practices/)
 
-During code review, you should pay attention to all these aspects.   
+During code review, you should pay attention to all these aspects (click on the link to see details)  :     
 
 - [ ] [Architecture and design](#architecture-and-design)  
 - [ ] [Code Readability](#code-readability)  
