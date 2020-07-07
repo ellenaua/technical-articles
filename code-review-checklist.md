@@ -61,7 +61,7 @@ getUser - @returns User
 sendMessage - @returns nothing or true/false
 ```
 
-- [ ] Are there too many parameters for the method? If there are more than 4 parameters - it is probably a sign that it could be grouped in a different way
+- [ ] Are there too many parameters for the method? If there are more than 4 parameters - it is probably a sign that it could be grouped in a different way (introduce data structure)
 ```
 sendMessage (to, subject, body, ...)
 sendMessage ({ to: ..., subject: ..., body: … })
