@@ -38,3 +38,47 @@ Availability depends on:
 - Heartbeat
 - Redundancy: voting, replication, functional redundancy
 - Self-test
+
+### Modifability
+
+Modifications differ by:
+
+Source (requester) of a modification: 
+- developer
+- a system administrator
+- an end user
+
+Type of modification:
+- Functional
+  - addition of a function
+  - modification of an existing function
+  - deletion of a function
+- Non-Functional
+  - making system to be more responsive
+  - increasing availability
+  - increasing performance
+  - etc
+- Technological:
+  - change of a network protocol
+  - change of a database type
+  - change of hosting method
+
+Scope of modification:
+- specific components or modules
+- the system’s platform
+- user interface
+- system environment
+- another system with which it interoperates
+
+Modifability is measured in:
+- time (how much time we need to make a change)
+- money (how much money we need to make a change)
+- scope (how many lines of code you need to make the change)
+- defects per modification, risks (how many defects modification can introduce)
+
+#### Modifabilty strategies:
+
+- Reduce coupling
+- Increase cohesion
+- Reduce size of a module
+- Single responsibility principle
