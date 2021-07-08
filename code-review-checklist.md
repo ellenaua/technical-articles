@@ -257,8 +257,6 @@ logWarning(data, errorType) - WRONG, inconsistent order
 
 - [ ] Is it easy to contact them in case of issues?
 
-- [ ] Does the library have any known vulnerabilities?
-
 - [ ] Can you use only some functions from that library to reduce build size?
 
 ## Documentation
