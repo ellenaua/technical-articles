@@ -10,3 +10,5 @@
 8) Service-Based
 
 ![Software Architectures](./architectures.png)
+
+P.S. Taken from here https://learning.oreilly.com/videos/software-architecture-fundamentals/9781491998991/
